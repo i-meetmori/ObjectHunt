@@ -1,4 +1,4 @@
-// File: G:\object_hunt\app\g\page.tsx
+// File: F:\ObjectHunt\app\g\page.tsx
 import * as entry from '../../../../app/g/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
