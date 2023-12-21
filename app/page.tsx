@@ -75,7 +75,8 @@ export default function Home() {
                     Fuck around and find out fool
                 </Modal>
             </div>
-            <div className="bg-slate-500 m-2 py-7 text-black flex justify-center items-center">Ads #1</div>
+            <div className="bg-slate-500 m-2 py-7 text-black flex justify-center items-center"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6679868109520957"
+     crossorigin="anonymous"></script></div>
 
             
             {/* <p className="p-0 m-0 self-center absolute bottom-5">
